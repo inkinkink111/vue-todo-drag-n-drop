@@ -46,7 +46,9 @@ const startDrag = (event: DragEvent, id: number) => {
     >
       {{ text }}
     </p>
-    <div class="flex flex-row justify-between items-center">
+    <div
+      class="flex flex-col md:flex-row justify-between items-start gap-2 md:gap-0 md:items-center"
+    >
       <p class="text-white font-mono text-sm">
         {{ createAt.toLocaleString() }}
       </p>
