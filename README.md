@@ -1,5 +1,9 @@
-# Vue 3 + TypeScript + Vite
+# 📝 Vue 3 Todo App with Drag and Drop
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A simple and clean **Vue 3** Todo application featuring **drag-and-drop** functionality to toggle tasks. Built with the Composition API and `<script setup>` syntax.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## 🚀 Features
+
+- ✅ Add, delete, and complete tasks
+- 🎯 Drag-and-drop task
+- ⚡ Lightweight and responsive UI
